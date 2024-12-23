@@ -3,3 +3,6 @@ geopandas
 shapely
 keplergl
 osmnx
+transformers
+outscraper
+FASTopic
