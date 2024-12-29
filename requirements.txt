@@ -5,4 +5,6 @@ keplergl
 osmnx
 transformers
 outscraper
-FASTopic
+deep_translator
+langchain
+langchain_openai
