@@ -9,3 +9,6 @@ deep_translator
 langchain
 langchain_openai
 openai
+unidecode
+wordcloud
+matplotlib
