@@ -12,3 +12,4 @@ openai
 unidecode
 wordcloud
 matplotlib
+pyLDAvis
