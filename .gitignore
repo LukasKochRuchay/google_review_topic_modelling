@@ -77,6 +77,7 @@ target/
 
 # exclude data from source control by default
 /data/
+/notebooks/00_get_place_data.ipynb
 
 # Mac OS-specific storage files
 .DS_Store

@@ -13,3 +13,4 @@ unidecode
 wordcloud
 matplotlib
 pyLDAvis
+deep_translator
