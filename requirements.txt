@@ -14,3 +14,6 @@ wordcloud
 matplotlib
 pyLDAvis
 sentence_transformers
+bertopic[spacy]
+bertopic
+
