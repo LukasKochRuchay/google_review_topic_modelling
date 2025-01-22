@@ -30,6 +30,8 @@ var/
 *.spec
 
 # Folders
+
+/notebooks/00_get_place_data.ipynb
 xx_legacy/
 dirty.csv
 
@@ -79,9 +81,6 @@ target/
 # Jupyter NB Checkpoints
 .ipynb_checkpoints/
 
-# exclude data from source control by default
-/data/
-/notebooks/00_get_place_data.ipynb
 
 # Mac OS-specific storage files
 .DS_Store
