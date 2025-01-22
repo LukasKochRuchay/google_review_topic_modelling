@@ -1,19 +1,8 @@
 pandas
-geopandas
-shapely
-keplergl
-osmnx
-transformers
-outscraper
-deep_translator
-langchain
-langchain_openai
-openai
-unidecode
 wordcloud
 matplotlib
-pyLDAvis
 sentence_transformers
 bertopic[spacy]
 bertopic
+sklearn
 
